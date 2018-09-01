@@ -24,13 +24,13 @@
     "koa2-cors": "2.0.6",
     "lodash": "4.17.10",
     "mongoose": "5.2.6",
-    "nanoid": "^1.1.0",
-    "nodemailer": "^4.6.7",
-    "nodemailer-mailgun-transport": "^1.4.0",
-    "nodemon": "^1.18.3",
-    "npm": "^6.2.0",
+    "nanoid": "1.2.2",
+    "nodemailer": "4.6.8",
+    "nodemailer-mailgun-transport": "1.4.0",
+    "nodemon": "1.18.4",
+    "npm": "6.4.1",
     "passport-local": "1.0.0",
-    "ramda": "^0.25.0",
+    "ramda": "0.25.0",
     "react": "16.4.1",
     "react-apollo": "2.1.9",
     "react-dom": "16.4.1",
@@ -38,7 +38,7 @@
     "react-router-hash-link": "1.2.0",
     "react-scripts": "1.1.4",
     "styled-components": "3.3.3",
-    "throttle-debounce": "^2.0.1"
+    "throttle-debounce": "2.0.1"
   },
   "scripts": {
     "seed": "node -r esm src/server/seeder.js",
